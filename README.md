@@ -37,9 +37,5 @@ Minha missão é clara: **Levar o Coração de Jesus ❤️‍🔥 para todos**,
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anapaula-carmelita&show_icons=true&theme=merko" alt="Ana Paula Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anapaula-carmelita&show_icons=true&theme=gruvbox" alt="Ana Paula Stats" />
 </p>
-<!---
-anapaula-carmelita/anapaula-carmelita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
