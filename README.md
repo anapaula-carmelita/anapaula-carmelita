@@ -28,12 +28,6 @@ Minha missão é clara: **Levar o Coração de Jesus ❤️‍🔥 para todos**,
 
 
 
-
-
-- 📫 [![Pergunte-me por algo](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/anapaula-carmelita/anapaula-carmelita/issues/new)
-
-[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=anapaula-carmelita)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### 💭 Citação Favorita
