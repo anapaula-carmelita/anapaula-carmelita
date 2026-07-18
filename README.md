@@ -11,7 +11,7 @@ Minha missão é clara: **Levar o Coração de Jesus ❤️‍🔥 para todos**,
 ### 🛠️ O que estou construindo / Estudando
 
 - 🔭 Atualmente trabalhando em: **Projetos de Evangelização Digital e Presencial**
-- 📚 Estudando: **Python (PCAP), Teoria dos Jogos, Grafos, etc.]**
+- 📚 Estudando: **[Python (PCAP)](https://github.com/anapaula-carmelita/Estudos/tree/main/python/labs-pcap), Teoria dos Jogos, Grafos, etc.]**
 - ✝️ Foco Missionário: Divulgação do **Manual do Coração de Jesus** (Ed. Realeza)
 - 🎓 **CS50 Harvard:** Introdução à Ciência da Computação (Concluído). [Ver certificado](https://certificates.cs50.io/666a98aa-3921-4c0f-b450-0a6c311e858f.pdf?size=letter)
 - [HTML5 by W3C](https://verify.w3schools.com/1ORRBF07WC)
