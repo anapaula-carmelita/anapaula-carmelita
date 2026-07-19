@@ -44,7 +44,7 @@
 ![Static Badge](https://img.shields.io/badge/Instagram-bright?style=social&logo=instagram&link=https%3A%2F%2Finstagram.com%2Fanacarmelitana)
 ![Static Badge](https://img.shields.io/badge/LinkTree-bright?style=social&logo=linktree&link=https%3A%2F%2Flinktr.ee%2Fanacarmelitana) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CC4EC9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacarmelitana/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-CC4EC9?style=for-the-badge&logo=linkedin&logoColor=white&v=1)](https://www.linkedin.com/in/anacarmelitana/)
 
 
 
