@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=CC4EC9&background=FFDBFE&center=true&vCenter=true&width=500&lines=Bem+vind%40!;Ol%C3%A1%2C+eu+sou+Ana+Paula;Seja+bem-vindo+ao+meu+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=CC4EC9&background=FFDBFE&center=true&vCenter=true&width=600&lines=Bem+vind(o%2Fa)!;Ol%C3%A1%2C+eu+sou+Ana+Paula;Analista+de+TI+%26+Mission%C3%A1ria+Carmelita;Tecnologia+%2B+Espiritualidade;Levar+o+Cora%C3%A7%C3%A3o+de+Jesus+para+todos)](https://git.io/typing-svg)
 
 
 👋 Olá, eu sou **Ana Paula da Silva Souza**  
