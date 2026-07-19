@@ -40,5 +40,5 @@ Minha missão é clara: **Levar o Coração de Jesus ❤️‍🔥 para todos**,
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anapaula-carmelita&show_icons=true&theme=gruvbox" alt="Ana Paula Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=anapaula-carmelita&show_icons=true&theme=gruvbox" alt="Ana Paula Stats" />
 </p>
