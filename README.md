@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=CC4EC9&background=FFDBFEE3&center=true&vCenter=true&width=500&lines=Bem vindo\(a\)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=CC4EC9&background=FFDBFEE3&center=true&vCenter=true&width=500&lines=Bem vind@!)](https://git.io/typing-svg)
 
 
 👋 Olá, eu sou **Ana Paula da Silva Souza**  
