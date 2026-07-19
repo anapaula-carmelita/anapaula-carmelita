@@ -8,27 +8,22 @@ Bem-vindo(a) ao meu perfil! Aqui, a tecnologia encontra a espiritualidade. Sou a
 
 Minha missão é clara: **Levar o Coração de Jesus ❤️‍🔥 para todos**, seja através da evangelização presencial ou digital.
 
-### 🛠️ O que estou construindo / Estudando
+### 👨‍🎓⛏️ O que estou construindo / Estudando
 
 - 🔭 Atualmente trabalhando em: **Projetos de Evangelização Digital e Presencial**
 - 📚 Estudando: **[Python (PCAP)](https://github.com/anapaula-carmelita/Estudos/tree/main/python/python-essentials-2), Teoria dos Jogos, Grafos, etc.**
 - ✝️ Foco Missionário: Divulgação do **Manual do Coração de Jesus** (Ed. Realeza)
 - 🎓 **[CS50 Harvard](https://certificates.cs50.io/666a98aa-3921-4c0f-b450-0a6c311e858f.pdf?size=letter):** Introdução à Ciência da Computação (Concluído).
+- 🛠️ [ITIL v3](https://www.linkedin.com/in/anacarmelitana/overlay/Certifications/2046734566/treasury/?profileId=ACoAAErwxxABps3JLEKCVb75j0cULyraEmdFWDM)
 - [![HTML5 by W3C](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://verify.w3schools.com/1ORRBF07WC)
-- [ITIL v3](https://www.linkedin.com/in/anacarmelitana/overlay/Certifications/2046734566/treasury/?profileId=ACoAAErwxxABps3JLEKCVb75j0cULyraEmdFWDM)
-- 🐍 [PCEP](https://www.credly.com/badges/5ac030b5-fc43-4484-bb05-a2d29ad82c80)
+- [![Static Badge](https://img.shields.io/badge/Python-PCEP-brightgreen?style=social&logo=Python)](https://www.credly.com/badges/5ac030b5-fc43-4484-bb05-a2d29ad82c80)
 
 
 ### 🚀 Conecte-se Comigo
 
-<div align="center">
-  <a href="https://instagram.com/anacarmelitana" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://linktr.ee/anacarmelitana" target="_blank">
-    <img src="https://img.shields.io/badge/-Linktree-%231DE9B6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank">
-  </a>
-</div>
+![Static Badge](https://img.shields.io/badge/discuss-brightgreem?style=social&logo=theconversation&link=https%3A%2F%2Fgithub.com%2Fanapaula-carmelita%2FEstudos%2Fdiscussions%2F1)
+![Static Badge](https://img.shields.io/badge/Instagram-bright?style=social&logo=instagram&link=https%3A%2F%2Finstagram.com%2Fanacarmelitana)
+![Static Badge](https://img.shields.io/badge/LinkTree-bright?style=social&logo=linktree&link=https%3A%2F%2Flinktr.ee%2Fanacarmelitana)
 
 
 
