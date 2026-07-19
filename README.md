@@ -33,6 +33,7 @@ Minha missão é clara: **Levar o Coração de Jesus ❤️‍🔥 para todos**,
 
 > *"Sagrado Coração de Jesus, eu confio em vós."*
 
+
 ---
 
 <p align="center">
