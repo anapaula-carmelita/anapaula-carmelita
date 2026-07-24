@@ -28,8 +28,8 @@
 ---
 
 ## 📌 Projetos em destaque  
-- 📂 **Estudos** — Repositório de estudos em Python e C  
-- 🌸 **anacarmelitana** — Evangelização digital e espiritualidade  
+- 📂 **Estudos** — CS50 e Repositório de estudos em Python e C  
+- 🌸 **[Missionária Carmelitana](https://missionariacarmelitana.blogspot.com/)** — Evangelização digital e espiritualidade  
 
 ---
 
