@@ -28,8 +28,8 @@
 ---
 
 ## 📌 Projetos em destaque  
-- 📂 **Estudos** — CS50 e Repositório de estudos em Python e C  
-- 🌸 **[Missionária Carmelitana](https://missionariacarmelitana.blogspot.com/)** — Evangelização digital e espiritualidade  
+- 📂 **Estudos** — CS50 (Privado) e [Repositório de estudos em Python e C](https://github.com/anapaula-carmelita/Estudos)  
+- 🌸 **[Missionária Carmelitana](https://github.com/anapaula-carmelita/missionariacarmelitana)** — Evangelização digital e espiritualidade  
 
 ---
 
@@ -46,14 +46,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CC4EC9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacarmelitana/)
 
+## Comunicação
 
+Não utilizo WhatsApp.
 
-<p align="center">
+Valorizo o diálogo e o respeito ao próximo, por isso procuro responder todas as mensagens que recebo pelos meios de contato disponíveis. A comunicação também faz parte da missão.
+
+<p>
   <img src="https://github-stats-extended.vercel.app/api?username=anapaula-carmelita&show_icons=true&theme=gruvbox" alt="Ana Paula Stats" />
 </p>
-
-
-
 
 
 
