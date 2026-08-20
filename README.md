@@ -8,12 +8,11 @@
 
 ---
 
-## 📚 O que estudo 
-- 🐍 Python (PCAP)  
-- ⚙️ C  
-- 🎮 Teoria dos Jogos  
-- 📊 Grafos  
-- 🎓 CS50 Harvard  
+## 📚 O que estudo
+- 🐍 Python Avançado
+- ⚙️ Revisando C
+- 📊 Análise de Dados
+- 🎓 CS50 Harvard
 - 📘 Manual do Coração de Jesus (missão evangelizadora)  
 
 ---
@@ -22,8 +21,8 @@
 - 🐍 Python  
 - ⚙️ C  
 - 🌐 HTML  
-- 🎨 CSS  
-- 🔧 Makefile  
+- 🎨 CSS
+- 🔧 Makefile e CI/CD
 
 ---
 
