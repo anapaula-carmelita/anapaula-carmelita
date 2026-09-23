@@ -26,9 +26,10 @@
 
 ---
 
-## 📌 Projetos em destaque  
+## 📌 Projetos em destaque   
+- 🎓 **[Pesquisa Aplicada e Portfólio Acadêmico](https://github.com/anapaula-carmelita/academic-portfolio)** — Engenharia de Prompts, Inteligência Artificial na educação e investigações conceituais  
 - 📂 **Estudos** — CS50 (Privado) e [Repositório de estudos em Python e C](https://github.com/anapaula-carmelita/Estudos)  
-- 🌸 **[Missionária Carmelitana](https://github.com/anapaula-carmelita/missionariacarmelitana)** — Evangelização digital e espiritualidade  
+- 🌸 **[Missionária Carmelitana](https://github.com/anapaula-carmelita/missionariacarmelitana)** — Evangelização digital e espiritualidade
 
 ---
 
